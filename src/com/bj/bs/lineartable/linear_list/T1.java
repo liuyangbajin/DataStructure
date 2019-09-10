@@ -1,5 +1,8 @@
-package com.bj.bs.linearlist;
+package com.bj.bs.lineartable.linear_list;
 
+/**
+ * 顺序存储的线性表
+ * */
 public class T1 {
 
     public static void main(String[] args){
